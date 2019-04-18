@@ -1,5 +1,5 @@
 {
-    "name": "@naoey/react-native-photo-editor",
+    "name": "react-native-photo-editor",
     "version": "0.0.8",
     "description": "React Native: Native Photo Editor",
     "main": "RNPhotoEditor.js",
