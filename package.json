@@ -1,11 +1,11 @@
 {
-    "name": "react-native-photo-editor",
-    "version": "0.0.7",
+    "name": "@naoey/react-native-photo-editor",
+    "version": "0.0.8",
     "description": "React Native: Native Photo Editor",
     "main": "RNPhotoEditor.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/prscX/react-native-photo-editor.git"
+        "url": "https://github.com/naoey/react-native-photo-editor.git"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
