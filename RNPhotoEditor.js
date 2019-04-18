@@ -45,11 +45,11 @@ class PhotoEditor extends PureComponent {
 
     RNPhotoEditor.Edit(
       props,
-      (...args) => {
-        props.onDone && props.onDone(...args);
+      (args) => {
+        props.onDone && props.onDone(args);
       },
-      (...args) => {
-        props.onCancel && props.onCancel(...args);
+      (args) => {
+        props.onCancel && props.onCancel(args);
       }
     );
   }
