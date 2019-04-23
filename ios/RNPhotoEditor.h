@@ -6,9 +6,10 @@
 #endif
 
 #import <UIKit/UIKit.h>
-#import <iOSPhotoEditor/iOSPhotoEditor-Swift.h>
+
+@import iOSPhotoEditor;
 
 @interface RNPhotoEditor : NSObject <RCTBridgeModule, PhotoEditorDelegate>
 
 @end
-  
+
